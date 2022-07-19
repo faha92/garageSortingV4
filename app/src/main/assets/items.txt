@@ -1,6 +1,8 @@
 coffee, Food
 coffee, Food
 coffee, Food
+tea, Food
+coffee, Food
 carrots, Netto
 milk, Netto
 bread, bakery
