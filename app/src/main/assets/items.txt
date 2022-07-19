@@ -1,4 +1,4 @@
-coffee, Irma
+coffee, Food
 carrots, Netto
 milk, Netto
 bread, bakery
